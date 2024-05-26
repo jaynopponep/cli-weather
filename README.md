@@ -22,9 +22,9 @@ export PATH=$PATH:/usr/local/bin
 source ~/.zshrc
 ```
 ### How to use:
-Simply call the app with 'weather', followed by a zipcode or city
-Examples:
-```weather columbus_ohio```
+Simply call the app with 'weather', followed by a zipcode or city</br>
+Examples:</br>
+```weather columbus_ohio```</br>
 ```weather 10029```
 ### Windows
 1. Change current directory to weather
@@ -49,9 +49,9 @@ move weather.exe C:\Users\{your-username-here}\bin
 ```
 You should be able to use the executable weather from any directory on your computer
 ### How to use:
-Simply call the app with 'weather', followed by a zipcode or city
-Examples:
-```weather columbus_ohio```
+Simply call the app with 'weather', followed by a zipcode or city</br>
+Examples:</br>
+```weather columbus_ohio```</br>
 ```weather 10029```
 ### Linux
 -WIP
