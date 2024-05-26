@@ -42,7 +42,7 @@ move weather.exe C:\Users\{your-username-here}\bin
 ```
 5. Add directory to PATH manually
 ```
-- Go to 'edit the system environment variables'
+- Search for 'edit the system environment variables' or 'PATH'
 - Click 'Environment Variables'
 - Click 'Path' in User variables, then click Edit
 - Create new environment variable, and insert the directory you made in step 4
