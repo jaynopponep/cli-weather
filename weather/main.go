@@ -77,7 +77,7 @@ func main() {
 			continue // skips all the time that has already passed
 		}
 
-		message := fmt.Sprintf("%s - %.0fF, %.0f, %s\n",
+		message := fmt.Sprintf("%s - %.0f°F, %.0f%% chance of rain, %s\n",
 			date.Format("03:04PM"), // for military time: date.Format("15:00")
 			hour.TempF,
 			hour.ChanceOfRain,
