@@ -1,8 +1,10 @@
-# cli-weather
+# Weather on CLI
 A CLI application built with Go, created so you can check the weather no matter the directory you are working in.
-### Make sure to:
+## Demo
+![cliweather](https://github.com/user-attachments/assets/4f1f609f-b7dd-4f7d-87cd-55b9f329888d)
+## Installation Instructions:
+#### Make sure to:
 Install Go: https://go.dev/doc/install
-### Installation Instructions:
 ### MacOS
 1. Change current directory to weather
 2. Build the executable:
