@@ -1,4 +1,4 @@
-# Weather on CLI
+# Weather updates for developers!
 A CLI application built with Go, created so you can check the weather no matter the directory you are working in.
 ## Demo
 ![cliweather](https://github.com/user-attachments/assets/4f1f609f-b7dd-4f7d-87cd-55b9f329888d)
